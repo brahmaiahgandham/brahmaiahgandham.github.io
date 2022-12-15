@@ -257,8 +257,7 @@ h6 {
 
 .mobile-nav-toggle i {
   color: #45505b;
-  width:50%;
-}
+  }
 
 .mobile-nav-active {
   overflow: hidden;
@@ -266,6 +265,7 @@ h6 {
 
 .mobile-nav-active #header {
   left: 0;
+  width: 40%;
 }
 
 .mobile-nav-active .mobile-nav-toggle {
@@ -761,7 +761,7 @@ section {
 }
 
 #footer h3 {
-  font-size: 24px;
+  font-size: 30px;
   font-weight: 700;
   position: relative;
   font-family: "Poppins", sans-serif;
